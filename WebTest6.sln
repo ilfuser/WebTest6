@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplePgConnectApi", "SimplePgConnectApi\SimplePgConnectApi.csproj", "{AC5E67F4-08CD-FCBE-18B2-02E69CCEDEBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC5E67F4-08CD-FCBE-18B2-02E69CCEDEBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC5E67F4-08CD-FCBE-18B2-02E69CCEDEBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC5E67F4-08CD-FCBE-18B2-02E69CCEDEBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC5E67F4-08CD-FCBE-18B2-02E69CCEDEBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F07CA824-DAB4-491B-97D1-764AA81F7DAB}
+	EndGlobalSection
+EndGlobal
